@@ -25,18 +25,22 @@ body{
     transition: transform 0.2s ease;
 }
 
-.col-6{
-    margin-top: 50px !important;
-}
-
 .left-heading{
     text-align: center;
     font-size: 60px;
+    position: relative;
+    top: 15px;
 }
 
+.left-hr{
+    position: relative;
+    top: 30px;
+}
 .left-para{
     text-align: center;
     line-height: 35px;
+    position: relative;
+    top: 45px;
 }
 /* meadia querry for lower screen size */
 
